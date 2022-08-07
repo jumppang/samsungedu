@@ -1,0 +1,3 @@
+<%
+   Set obj = CreageObject("") 
+%>
